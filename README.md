@@ -9,6 +9,7 @@ Run the railsapp docker image: ./run.sh
 
 1. rails webpacker:install (this runs everytime the image is built, need to cache like the gem install)
 2. The blog post instructions result in permission issue. It requires sudo to change any files in the project.
+3. How to access rails console ?
 
 # References
 
